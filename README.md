@@ -1,5 +1,5 @@
-# Heart-Disease-Classification
-## Heart Disease Classification Project
+
+# Bulldozer-Price-Regression-Model
 # Overview
 This project aims to predict the prices of bulldozers using machine learning techniques. The predictive model developed here can be utilized by various stakeholders, including construction companies, equipment rental agencies, and auction houses, to estimate the value of bulldozers accurately.
 
